@@ -1,0 +1,10 @@
+build/
+out/
+cmake-build-*/
+.vs/
+.vscode/
+.idea/
+*.user
+CMakeUserPresets.json
+CMakeCache.txt
+CMakeFiles/
